@@ -9,7 +9,7 @@ create a new branch is quick AND simple
 >>>>>>> feature1
 
 <<<<<<< HEAD
-create a new branch is quick and simple
+create a new branch is quick AND simple
 =======
 create a new branch is quick AND simple
 >>>>>>> feature1
