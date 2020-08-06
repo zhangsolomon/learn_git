@@ -13,3 +13,5 @@ create a new branch is quick AND simple
 =======
 create a new branch is quick AND simple
 >>>>>>> feature1
+
+checkout to a new branch "dev"
